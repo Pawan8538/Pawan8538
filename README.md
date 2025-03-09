@@ -21,11 +21,15 @@
 
 ## 📂 Projects:
 - [**Crazydogs**](https://github.com/Pawan8538/Crazydogs): Dog Info Platform built with React.js.
-- [**gemini-chatbot**](https://github.com/Pawan8538/gemini-chatbot): AI Chatbot built with Express.js.
   
 - Click here to explore the project 
 🔗 https://crazydogs.netlify.app/
 
+- [**gemini-chatbot**](https://github.com/Pawan8538/gemini-chatbot): AI Chatbot built with Express.js.
+  
+- Click here to explore the project 
+🔗 https://gemini-chatbot-jp7q.onrender.com/api/chat
+  
 ## 📫 Get in Touch:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - Email: [pawanpatidar8538@gmail.com]

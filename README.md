@@ -33,5 +33,4 @@
 🔗 https://gemini-chatbot-jp7q.onrender.com/api/chat
   
 ## 📫 Get in Touch:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - Email: [pawanpatidar8538@gmail.com]

@@ -18,10 +18,13 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 ## 📂 Projects:
+
+- [**Bookstore**](https://github.com/Pawan8538/Bookstore): Book selling Platform built with Node.js.
+- Click here to explore the project 
+🔗 https://bookstore-gsr9.onrender.com/user/role
+
 - [**Crazydogs**](https://github.com/Pawan8538/Crazydogs): Dog Info Platform built with React.js.
   
 - Click here to explore the project 

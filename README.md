@@ -3,7 +3,7 @@
 
 
 ## 🚧 About Me:
-- 💻 Proficient in **HTML, CSS, JavaScript**, and **React**.
+- 💻 Proficient in **HTML, CSS, JavaScript**, **React**, and **Node.js**.
 - 🧑‍🤝‍🧑 Enjoy collaborating in open-source and team projects.
 
 ## 🔧 Technologies I Use
@@ -16,7 +16,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff) 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
 
 ## 📂 Projects:

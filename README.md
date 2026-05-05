@@ -79,6 +79,7 @@ const pawan = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -219,25 +220,6 @@ Pull Requests: 5+  |  Issues Resolved: 3+
 
 ---
 
-##  Current Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[2026 Goals] --> B[Master System Design]
-    A --> C[Contribute to 10+ OSS Projects]
-    A --> D[Build Production Apps]
-    A --> E[Learn Cloud Architecture]
-    B --> F[Scalable Systems]
-    C --> G[Community Impact]
-    D --> H[Real-world Solutions]
-    E --> I[AWS/Azure/GCP]
-```
-
-</div>
-
----
 
 ##  Let's Connect!
 
@@ -275,6 +257,6 @@ graph LR
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient)
 
-  **⭐ From [Pawan8538](https://github.com/Pawan8538) **
+  ** From [Pawan8538](https://github.com/Pawan8538) **
 
 </div>

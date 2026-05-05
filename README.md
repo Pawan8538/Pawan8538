@@ -1,72 +1,289 @@
-# Hi, I'm Pawan Patidar
-**Aspiring Full-Stack Web Developer** | **SIH 2025 Finalist**
-Student passionate about open-source contributions and building scalable, user-friendly applications.
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pawan%20Patidar&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Full-Stack%20Developer%20|%20SIH%202025%20Finalist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
 
-## 🚧 About Me:
-- 💻 Proficient in **MERN Stack**, **Next.js**, **Python**, and **SQL**.
-- 🏆 **Smart India Hackathon 2025 Finalist** (Team Zenware).
-- 🧑‍🤝‍🧑 Active contributor to **Open Source** (Open Food Facts).
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-## 🔧 Technologies I Use
+  <img src="https://komarev.com/ghpvc/?username=Pawan8538&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pawan8538/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanpatidar8538@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
+---
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+##  About Me
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+```typescript
+const pawan = {
+    location: "Indore, India 🇮🇳",
+    role: "Full-Stack Developer",
+    currentFocus: "Building scalable applications with MERN Stack",
+    achievements: ["SIH 2025 Finalist 🏆", "Open Source Contributor 🌟"],
+    learning: ["System Design", "Cloud Architecture", "DevOps"],
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
 
-## 🌍 Open Source Contributions
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- [**Open Food Facts**](https://github.com/Pawan8538/openfoodfacts-server): Global Food Database Platform.
-  - *Contributions: Fixed critical UI layout shifts, improved grid responsiveness, and optimized i18n configs.*
+### What I'm Up To
 
-## 📂 Projects:
+-  Working on **GIRAKSHA** - AI-based Mine Safety System (SIH 2025)
+-  Exploring **System Design** & **Microservices Architecture**
+-  Contributing to **Open Food Facts** and other open-source projects
+-  Ask me about **React**, **Node.js**, **MongoDB**, **Next.js**
+-  Building high-performance web applications with modern tech stacks
 
-### 🏆 [GIRAKSHA - Mine Safety System](https://sih-web-app-pcgw.onrender.com)
-**SIH 2025 Finalist Project**
-- A comprehensive AI-based safety monitoring system for mining operations.
-- **Tech**: Next.js, Node.js, Socket.IO, ML, PostgreSQL.
-- [**Live Demo**](https://sih-web-app-pcgw.onrender.com)
+<br clear="right"/>
 
-### 🏨 [StayFinder](https://github.com/Pawan8538/StayFinder)
-**High-Performance Hotel Search Engine**
-- Built with Python and Search Algorithms using Builder/Filter patterns.
-- Optimized for sub-second data retrieval.
-- [**View Code**](https://github.com/Pawan8538/StayFinder)
+---
 
-### 📚 [Bookstore](https://github.com/Pawan8538/Bookstore)
-**Full-Stack E-Commerce Platform**
-- Book selling platform built with Node.js, Express, and MongoDB.
-- [**Live Demo**](https://bookstore-gsr9.onrender.com/user/role)
+##  Tech Stack
 
-### 🐶 [Crazydogs](https://github.com/Pawan8538/Crazydogs)
-**Dog Info Platform**
-- built with React.js and Dog API.
-- [**Live Demo**](https://crazydogs.netlify.app/)
+<div align="center">
 
-### 🤖 [Gemini Chatbot](https://github.com/Pawan8538/gemini-chatbot)
-**AI Customer Support**
-- AI Chatbot built with Express.js and Google Gemini API.
-- [**Live Demo**](https://gemini-chatbot-jp7q.onrender.com/api/chat)
+###  Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Get in Touch:
-- Email: [pawanpatidar8538@gmail.com](mailto:pawanpatidar8538@gmail.com)
-- LinkedIn: [linkedin.com/in/Pawan8538](https://www.linkedin.com/in/Pawan8538/)
+###  Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+###  Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+###  Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+###  Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+##  GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan8538&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+
+</div>
+
+---
+
+##  GitHub Trophies
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Pawan8538&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![GIRAKSHA](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=SIH-WEB-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/SIH-WEB-APP)
+[![StayFinder](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=StayFinder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/StayFinder)
+
+[![Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=Bookstore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/Bookstore)
+[![Crazydogs](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=Crazydogs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/Crazydogs)
+
+</div>
+
+###  Highlighted Work
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center"> GIRAKSHA - Mine Safety System</h3>
+      <div align="center">  
+        <a href="https://sih-web-app-pcgw.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <p><strong>Next.js • Node.js • Socket.IO • ML • PostgreSQL</strong></p>
+        <p> SIH 2025 Finalist - AI-based comprehensive safety monitoring system for mining operations with real-time alerts and predictive analytics.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"> StayFinder</h3>
+      <div align="center">
+        <a href="https://github.com/Pawan8538/StayFinder" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+        <p><strong>Python • Search Algorithms</strong></p>
+        <p> High-performance hotel search engine with sub-second retrieval using advanced Builder/Filter patterns.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> Bookstore E-Commerce</h3>
+      <div align="center">
+        <a href="https://bookstore-gsr9.onrender.com/user/role" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <p><strong>Node.js • Express • MongoDB</strong></p>
+        <p> Full-stack book selling platform with user authentication, shopping cart, and payment integration.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"> Gemini AI Chatbot</h3>
+      <div align="center">
+        <a href="https://gemini-chatbot-jp7q.onrender.com/api/chat" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <p><strong>Express.js • Google Gemini API</strong></p>
+        <p> AI-powered customer support chatbot with emotion-based responses and session management.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+##  Open Source Contributions
+
+<div align="center">
+
+[![Open Food Facts](https://img.shields.io/badge/Open_Food_Facts-Contributor-green?style=for-the-badge&logo=open-source-initiative)](https://github.com/openfoodfacts/openfoodfacts-server)
+
+</div>
+
+###  Contribution Highlights
+
+-  **Open Food Facts Server**: Fixed critical UI layout shifts and improved grid responsiveness
+-  **Internationalization**: Optimized i18n configurations for better localization
+-  **Responsive Design**: Enhanced mobile and desktop user experience
+-  **Bug Fixes**: Resolved critical issues affecting user interface and functionality
+
+<div align="center">
+
+```
+📈 Pull Requests: 5+  |  🌟 Issues Resolved: 3+  |  💪 Active Contributor
+```
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan8538&custom_title=Pawan's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=0D1117&title_color=58A6FF&area=true)
+
+</div>
+
+---
+
+##  Skills Matrix
+
+<div align="center">
+
+| **Category** | **Skills** | **Proficiency** |
+|:---:|:---:|:---:|
+| **Frontend** | React, Next.js, Redux, Tailwind CSS | ████████░░ 80% |
+| **Backend** | Node.js, Express, REST APIs | ████████░░ 85% |
+| **Database** | MongoDB, PostgreSQL, MySQL | ███████░░░ 75% |
+| **DevOps** | Git, Docker, Linux | ██████░░░░ 65% |
+| **AI/ML** | Python, TensorFlow, ML Basics | █████░░░░░ 55% |
+
+</div>
+
+---
+
+##  Current Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[2026 Goals] --> B[Master System Design]
+    A --> C[Contribute to 10+ OSS Projects]
+    A --> D[Build Production Apps]
+    A --> E[Learn Cloud Architecture]
+    B --> F[Scalable Systems]
+    C --> G[Community Impact]
+    D --> H[Real-world Solutions]
+    E --> I[AWS/Azure/GCP]
+```
+
+</div>
+
+---
+
+##  Let's Connect!
+
+<div align="center">
+  
+  <a href="mailto:pawanpatidar8538@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Pawan8538/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Pawan8538">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+---
+
+<div align="center">
+
+
+<div align="center">
+
+###  Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Pawan8538/Pawan8538/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+###  Profile Details
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawan8538&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient)
+
+  **⭐ From [Pawan8538](https://github.com/Pawan8538) **
+
+</div>

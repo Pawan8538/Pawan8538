@@ -2,9 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pawan%20Patidar&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Full-Stack%20Developer%20|%20SIH%202025%20Finalist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-  <img src="https://komarev.com/ghpvc/?username=Pawan8538&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pawan8538/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanpatidar8538@gmail.com)
@@ -21,9 +19,8 @@ const pawan = {
     location: "Indore, India 🇮🇳",
     role: "Full-Stack Developer",
     currentFocus: "Building scalable applications with MERN Stack",
-    achievements: ["SIH 2025 Finalist 🏆", "Open Source Contributor 🌟"],
-    learning: ["System Design", "Cloud Architecture", "DevOps"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    achievements: ["SIH 2025 Finalist ", "Open Source Contributor "],
+    learning: ["System Design", "Cloud Architecture", "DevOps", "Agentic AI"]
 };
 ```
 
@@ -107,17 +104,6 @@ const pawan = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![GIRAKSHA](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=SIH-WEB-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/SIH-WEB-APP)
-[![StayFinder](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=StayFinder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/StayFinder)
-
-[![Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=Bookstore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/Bookstore)
-[![Crazydogs](https://github-readme-stats.vercel.app/api/pin/?username=Pawan8538&repo=Crazydogs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Pawan8538/Crazydogs)
-
-</div>
 
 ###  Highlighted Work
 
@@ -129,17 +115,23 @@ const pawan = {
         <a href="https://sih-web-app-pcgw.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
-        <p><strong>Next.js • Node.js • Socket.IO • ML • PostgreSQL</strong></p>
+        <a href="https://github.com/Pawan8538/Giraksha" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+        <p><strong>Next.js • Node.js • Socket.IO • ML • Fast API • PostgreSQL</strong></p>
         <p> SIH 2025 Finalist - AI-based comprehensive safety monitoring system for mining operations with real-time alerts and predictive analytics.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"> StayFinder</h3>
       <div align="center">
+          <a href="https://https://stayfinder-1-zi3a.onrender.com.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
         <a href="https://github.com/Pawan8538/StayFinder" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
-        <p><strong>Python • Search Algorithms</strong></p>
+        <p><strong>React.js • Express.js • Search Algorithms</strong></p>
         <p> High-performance hotel search engine with sub-second retrieval using advanced Builder/Filter patterns.</p>
       </div>
     </td>
@@ -151,6 +143,9 @@ const pawan = {
         <a href="https://bookstore-gsr9.onrender.com/user/role" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
+        <a href="https://github.com/Pawan8538/bookstore" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
         <p><strong>Node.js • Express • MongoDB</strong></p>
         <p> Full-stack book selling platform with user authentication, shopping cart, and payment integration.</p>
       </div>
@@ -160,6 +155,9 @@ const pawan = {
       <div align="center">
         <a href="https://gemini-chatbot-jp7q.onrender.com/api/chat" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Pawan8538/gemini-chatbot" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
         <p><strong>Express.js • Google Gemini API</strong></p>
         <p> AI-powered customer support chatbot with emotion-based responses and session management.</p>
@@ -188,7 +186,7 @@ const pawan = {
 <div align="center">
 
 ```
-📈 Pull Requests: 5+  |  🌟 Issues Resolved: 3+  |  💪 Active Contributor
+Pull Requests: 5+  |  Issues Resolved: 3+ 
 ```
 
 </div>
@@ -262,13 +260,6 @@ graph LR
 
 <div align="center">
 
-###  Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Pawan8538/Pawan8538/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
